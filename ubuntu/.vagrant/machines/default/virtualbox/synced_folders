@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/chaitanya.p/Train/ubuntu","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/Downloads":{"owner":"vagrant","group":"vagrant","guestpath":"/Downloads","hostpath":"/Users/chaitanya.p/Downloads","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/chaitanya.p/Train/ubuntu","disabled":false,"__vagrantfile":true}}}
